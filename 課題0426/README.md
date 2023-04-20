@@ -1,6 +1,6 @@
 # GitHubに関する課題
 
-以下の手順に従って、課題提出するためのリポジトリ([https://github.com/lvzeyu/chss_2023_assignment])に課題を提出しましょう。
+以下の手順に従って、課題提出するためのリポジトリ(https://github.com/lvzeyu/chss_2023_assignment)に課題を提出しましょう。
 
 - 最新の状況を取得するために、```git pull```を行なってください。 
 - 各自のブランチを作ってください。 ```git branch [name]```,[name]では誰なのかわかるように名前付けください。
