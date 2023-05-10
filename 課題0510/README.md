@@ -10,4 +10,5 @@
 - コミットが終わりましたら、操作をリモートリポジトリにプッシュします。「VScode」→「ソース管理」→「Branchの発行」を押してください。
 - GitHubのリモートリポジトリでファイルが同期されたかどうかを確認してください。「 XXX had recent pushes less than a minute ago」のようなメッセージが表示されるはずです。
 - mainブランチにマージするのpull requestを行います。「Compare&pull request」を押して、次の画面でタイトルとコメントを適宜入力し、```Create pull request```を押してください。
+- Google Classroomで課題が提出された旨を報告してください。
 - 教員がpull requestを確認するから承認しますので、承認まで待ってください。
